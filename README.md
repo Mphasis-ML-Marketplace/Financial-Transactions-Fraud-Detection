@@ -14,4 +14,4 @@ This solution is a deep learning-based approach to learn and understand the patt
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-uia2s7d6vuapc)
